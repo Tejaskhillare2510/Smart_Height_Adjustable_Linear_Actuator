@@ -31,10 +31,8 @@ SolidWorks: For 3D design of the table case
 Altium Designer: For PCB design
 Arduino Cloud: IoT dashboard and integration
 
-
-**System Architecture**
-
 **Circuit Diagram**
+
 ![image](https://github.com/user-attachments/assets/d66e65c4-ccd3-432a-94be-10a2d092e81c)
 
 
